@@ -1,7 +1,7 @@
 # picturedetective
 # Libs:
 sqlite3
-PIL import Image
+PIL (import Image)
 os
 face_recognition
 numpy as np
